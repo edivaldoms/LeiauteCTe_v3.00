@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>br.com.evoli</groupId>
-	<artifactId>leiaute-cte-v3.00-lib</artifactId>
+	<artifactId>leiaute-cte-v300-lib</artifactId>
 	<version>3.0</version>
 	<packaging>jar</packaging>
 	
